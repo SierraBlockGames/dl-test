@@ -115,6 +115,17 @@ Meet [DeepLink](https://ft-deeplink.vercel.app/), an open-source social network 
       />
     </a>
 </p>
+
+- **Lateral Menu**: Navigate seamlessly through DeepLink using our intuitive lateral menu, providing quick access to all major sections.
+<p>
+    <a href="https://ft-deeplink.vercel.app/" target="_blank">
+      <img
+        src="https://deeplink-uploads.s3.eu-west-3.amazonaws.com/readme_files/lateralMenu.png"
+        alt="DeepFeed page"
+        width="100%"
+      />
+    </a>
+</p>
   
 - **Phone version** (_coming soon_)
 
